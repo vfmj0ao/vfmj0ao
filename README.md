@@ -1,22 +1,41 @@
-# João
+# João Victor Medeiros
 
-**TI e desenvolvimento web** · TypeScript · Next.js · Mato Grosso do Sul, Brasil
+Desenvolvedor front-end júnior. Trabalho com HTML, CSS, JavaScript e TypeScript, monto interfaces em React e Next.js, organizo a tela em componentes e consumo APIs REST.
 
-Construo ferramentas internas para o dia a dia da TI e projetos educativos que explicam conceitos com clareza.
+Corumbá, MS · [vfmedeiros.joao@gmail.com](mailto:vfmedeiros.joao@gmail.com)
 
-## Em destaque
+## Projetos
 
-- **[etica-em-ti](https://github.com/vfmj0ao/etica-em-ti)** — site interativo sobre código de conduta profissional em TI · [demo](https://etica-em-ti.vercel.app)
-- **[Site_SPT](https://github.com/vfmj0ao/Site_SPT)** — loja acadêmica de Sistema de Processamento de Transações · [demo](https://site-tpo.vercel.app)
-- **[gestao-financeira](https://github.com/vfmj0ao/gestao-financeira)** — orçamentos, lançamentos e relatórios em grupo familiar · [demo](https://gestao-financeira-orcin-omega.vercel.app)
-- **[guia-sistemas-digitais](https://github.com/vfmj0ao/guia-sistemas-digitais)** — guia de estudo de Introdução a Sistemas Digitais (UFMS/CPAN)
-- **[Learning_C](https://github.com/vfmj0ao/Learning_C)** — primeiros exercícios de programação em C
+### [Gestão financeira familiar](https://github.com/vfmj0ao/gestao-financeira)
+
+Interface de orçamentos, lançamentos e relatórios. Front-end em Next.js, TypeScript e Tailwind, consumindo uma API REST.
+
+[Código](https://github.com/vfmj0ao/gestao-financeira) · [Demo](https://gestao-financeira-orcin-omega.vercel.app)
+
+### [TechStore SPT](https://github.com/vfmj0ao/Site_SPT)
+
+Loja de demonstração com catálogo, carrinho, checkout e painel do vendedor. Interface em Next.js e TypeScript, organizada em componentes.
+
+[Código](https://github.com/vfmj0ao/Site_SPT) · [Demo](https://site-tpo.vercel.app)
+
+### [Código de conduta em TI](https://github.com/vfmj0ao/etica-em-ti)
+
+Site interativo em Next.js, TypeScript e Tailwind. O conteúdo virou páginas componentizadas, com casos práticos para o visitante decidir.
+
+[Código](https://github.com/vfmj0ao/etica-em-ti) · [Demo](https://etica-em-ti.vercel.app)
+
+### Sites em HTML, CSS e JavaScript
+
+Guias de estudo com navegação própria e leitura no celular.
+
+- [Introdução a Sistemas Digitais](https://github.com/vfmj0ao/guia-sistemas-digitais)
+- [Algoritmos e Programação II](https://github.com/vfmj0ao/guia-alg2) · [Demo](https://guia-web-mu.vercel.app)
 
 ## Stack
 
-`TypeScript` `Next.js` `React` `NestJS` `Node.js` `PostgreSQL` `HTML/CSS` `C`
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Git` `GitHub` `APIs REST`
 
-## Contato
+## Formação
 
-- GitHub: [@vfmj0ao](https://github.com/vfmj0ao)
-- Portfólio público: [etica-em-ti.vercel.app](https://etica-em-ti.vercel.app)
+- Técnico em Desenvolvimento de Sistemas — SENAC, Corumbá (2025)
+- Bacharelado em Sistemas de Informação — UFMS, em andamento
